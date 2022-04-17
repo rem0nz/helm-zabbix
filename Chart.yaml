@@ -27,6 +27,5 @@ maintainers:
     url: https://github.com/banzo
 dependencies:
   - name: postgresql
-    version: ~11.0.6
     repository: https://charts.bitnami.com/bitnami
     condition: postgresql.enabled
